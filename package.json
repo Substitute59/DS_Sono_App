@@ -1,20 +1,16 @@
 {
-  "name": "electron-quick-start",
+  "name": "ds-sono-app",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Application photomime avec electron",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Electron"
   ],
-  "author": "GitHub",
+  "author": "Substitute59",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^3.0.4"
